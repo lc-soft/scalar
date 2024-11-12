@@ -7,10 +7,6 @@ settings:
 importers:
 
   .:
-    dependencies:
-      yaml:
-        specifier: ^2.6.0
-        version: 2.6.0
     devDependencies:
       '@changesets/cli':
         specifier: ^2.27.8
@@ -626,7 +622,7 @@ importers:
         specifier: ^4.0.0
         version: 4.0.0
       yaml:
-        specifier: ^2.6.0
+        specifier: ^2.4.5
         version: 2.6.0
       zod:
         specifier: ^3.23.8
@@ -1454,7 +1450,7 @@ importers:
         specifier: ^3.5.12
         version: 3.5.12(typescript@5.6.2)
       yaml:
-        specifier: ^2.6.0
+        specifier: ^2.4.5
         version: 2.6.0
 
   packages/fetch:
@@ -1547,7 +1543,7 @@ importers:
         specifier: workspace:*
         version: link:../openapi-parser
       yaml:
-        specifier: ^2.6.0
+        specifier: ^2.4.5
         version: 2.6.0
     devDependencies:
       '@scalar/build-tooling':
@@ -1757,7 +1753,7 @@ importers:
         specifier: ^5.0.7
         version: 5.0.7
       yaml:
-        specifier: ^2.6.0
+        specifier: ^2.4.5
         version: 2.6.0
       zod:
         specifier: ^3.23.8
@@ -1822,7 +1818,7 @@ importers:
         specifier: ^4.0.0
         version: 4.0.0
       yaml:
-        specifier: ^2.6.0
+        specifier: ^2.4.5
         version: 2.6.0
     devDependencies:
       '@apidevtools/swagger-parser':
